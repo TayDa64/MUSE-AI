@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.o
+*.so
+*.dylib
+
+# Test artifacts
+test_output*/
+output/
+*.wav
+*.mid
+*.midi
+
+# Worktrees (managed separately)
+MUSE.worktrees/
+
+# MPC expansion packs (binary assets, managed separately)
+expansions/
+
+# Large binary files
+*.pdf
+
+# Package locks at root level
+package-lock.json

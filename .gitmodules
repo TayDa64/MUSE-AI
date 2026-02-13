@@ -1,0 +1,6 @@
+[submodule "MUSE"]
+	path = MUSE
+	url = https://github.com/TayDa64/multimodal-ai-music-gen.git
+[submodule "copilot-Liku-cli"]
+	path = copilot-Liku-cli
+	url = https://github.com/TayDa64/copilot-Liku-cli.git
