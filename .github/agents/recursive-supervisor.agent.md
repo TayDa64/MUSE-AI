@@ -1,6 +1,7 @@
 ---
 name: recursive-supervisor
 description: Supervisor agent. Probes and decomposes tasks, orchestrates handoffs to Builder/Verifier, and ensures phased verification.
+disable-model-invocation: false
 target: vscode
 tools: ['search/codebase', 'search', 'web/fetch', 'read/problems', 'search/usages', 'search/changes']
 handoffs:

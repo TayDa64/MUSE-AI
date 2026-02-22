@@ -1,6 +1,7 @@
 ---
 name: recursive-verifier
 description: Verifier agent. Runs phased verification on Builder changes and returns proofs plus a pass/fail verdict.
+disable-model-invocation: false
 target: vscode
 tools: ['execute', 'search/codebase', 'search', 'read/problems', 'search/usages', 'search/changes']
 handoffs:

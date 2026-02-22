@@ -1,6 +1,7 @@
 ---
 name: recursive-builder
 description: Builder agent. Implements decomposed plans from Supervisor with minimal diffs and local proofs; does not run full-suite verification.
+disable-model-invocation: false
 target: vscode
 tools: ['edit', 'execute', 'search/codebase', 'search', 'web/fetch', 'read/problems', 'search/usages', 'search/changes']
 handoffs:
