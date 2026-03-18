@@ -7,5 +7,17 @@
             "approve": true,
             "matchCommandLine": true
         }
+    },
+    "chat.customAgentInSubagent.enabled": true,
+    "geminicodeassist.agentDebugMode": true,
+    "github.copilot.chat.agentHistorySummarizationWithPromptCache": true,
+    "github.copilot.chat.switchAgent.enabled": false,
+    "github.copilot.chat.agent.temperature": 0.3,
+    "chat.planAgent.defaultModel": "Gemini 3.1 Pro (Preview) (copilot)",
+    "github.copilot.chat.searchSubagent.model": "gemini-3.1",
+    "github.copilot.chat.searchSubagent.toolCallLimit": 6,
+    "chatgpt.runCodexInWindowsSubsystemForLinux": true,
+    "screencastMode.keyboardOptions": {
+        "showCommandGroups": true
     }
 }
