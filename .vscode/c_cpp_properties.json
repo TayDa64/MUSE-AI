@@ -3,10 +3,8 @@
     {
       "name": "Win32",
       "includePath": [
-        "${workspaceFolder}/multimodal-ai-music-gen/**",
-        "${workspaceFolder}/multimodal-ai-music-gen/juce/Source",
-        "C:/JUCE/modules",
-        "${workspaceFolder}/multimodal-ai-music-gen/juce/build/MultimodalMusicGen_artefacts/JuceLibraryCode"
+        "${workspaceFolder}/MUSE/juce/Source",
+        "${workspaceFolder}/MUSE/juce/build/MultimodalMusicGen_artefacts/JuceLibraryCode"
       ],
       "defines": [
         "_DEBUG",

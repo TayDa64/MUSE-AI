@@ -1,5 +1,6 @@
 {
-    "cmake.sourceDirectory": "C:/dev/AI Music Generator/multimodal-ai-music-gen/juce",
+    "cmake.configureOnOpen": false,
+    "python.terminal.activateEnvironment": false,
     "chat.useAgentSkills": true,
     "chat.useNestedAgentsMdFiles": true,
     "chat.tools.terminal.autoApprove": {
